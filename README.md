@@ -8,4 +8,5 @@ Mr. Best - кладу плитку, клею обои, крашу стены
 Гуров Михаил - MSSQL, Golang, C   
 Бабив Сергей - C#, Golang   
 Артем Чернов - PHP    
-Белов Дмитрий - C#    
+Белов Дмитрий - C#    
+Мелешкин дмитрий - Android Java, iOS Objective-C, Python   
