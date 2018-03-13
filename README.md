@@ -3,7 +3,7 @@ telegram members about
 
 Руслан Багаутдинов - С/C++ QT   
 Иван Телевный - PHP, Node.js    
-Mr. Best - Python, PM
+Mr. Best - Python, PM   
 Дмитрий Сератила - MSSQL OLAP   
 Гуров Михаил - MSSQL, Golang, C   
 Бабив Сергей - C#, Golang   
