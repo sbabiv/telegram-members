@@ -9,4 +9,5 @@ Mr. Best - Python, PM
 Бабив Сергей - C#, Golang   
 Артем Чернов - PHP    
 Белов Дмитрий - C#    
-Мелешкин дмитрий - Android Java, iOS Objective-C, Python   
+Мелешкин Дмитрий - Android Java, iOS Objective-C, Python    
+Моисеенко Илья - С/С++    
